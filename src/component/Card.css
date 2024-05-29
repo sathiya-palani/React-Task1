@@ -1,0 +1,29 @@
+.card {
+    border:1 px solid black;
+    padding :20px;
+    border-radius: 10px; 
+    border-width: 0; 
+
+}
+.plan{
+    text-align: center;
+    color:rgb(173, 175, 177);
+}
+ .header{
+    text-align: center;
+}
+.button{
+    text-align: center;
+    background-color:rgb(76, 146, 221);
+    border: none;
+    border-radius: 15px;  
+    padding: 5px ;  
+    color: white;
+    
+} 
+
+
+.notComplete{
+    color:grey;
+}
+
